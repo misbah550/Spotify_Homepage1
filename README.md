@@ -1,1 +1,2 @@
-# Spotify_Homepage1
+# Spotify_Homepage
+Create Spotify Homepage using HTML and CSS.
